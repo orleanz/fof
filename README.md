@@ -10,8 +10,8 @@ Installation:
 
 Usage: 
 
-$ cd fof
-$ node index.js <lj-user-name>
+1. $ cd fof
+2. $ node index.js <lj-user-name>
 
 Usage Example:
 
