@@ -1,18 +1,19 @@
 # fof
 A node.js script to get LJ friends candidates based on friends of friends (FOF) statistics 
 
-Installation
+Installation:
 
 1. get Node.js / npm if not yet installed
 2. $ git clone https://github.com/orleanz/fof
-3. $ npm install
+3. $ cd fof
+4. $ npm install
 
-Usage 
+Usage: 
 
 $ cd fof
 $ node index.js <lj-user-name>
 
-Usage Example
+Usage Example:
 
 $ node index.js avva
 
