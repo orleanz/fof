@@ -11,7 +11,7 @@ Installation:
 Usage: 
 
 1. $ cd fof
-2. $ node index.js <lj-user-name>
+2. $ node index.js [lj-user-name]
 
 Usage Example:
 
