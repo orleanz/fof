@@ -1,0 +1,15 @@
+{
+  "name": "fof",
+  "version": "0.0.0",
+  "description": "A tool to get LJ user candidates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "^0.8.0",
+    "underscore": "~1.7.0"
+  },
+  "author": "orleanz",
+  "license": "ISC"
+}
